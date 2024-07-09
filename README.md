@@ -14,5 +14,5 @@ We also evaluate the effect of ESM2-Ab-CLIP model on antibody binding affinity p
 | [SAbDab_ProteinFlow.ipynb](https://github.com/arjan-hada/esm2-antibody-CLIP/blob/main/ESM2_Ab_CLIP.ipynb) | Obtain antibody sequence and structure from Structural Antibody Database, perform MMSeqs2 clustering and generate Train/Valid/Test set.|
 | [ESM_IF1_embeddings.ipynb](https://github.com/arjan-hada/esm2-antibody-CLIP/blob/main/ESM_IF1_embeddings.ipynb) | Generate antibody structure embeddings using ESM-IF1 and convert PDB files to ESM-IF1 embeddings.|
 | [ESM2_Ab_CLIP.ipynb](https://github.com/arjan-hada/esm2-antibody-CLIP/blob/main/ESM2_Ab_CLIP.ipynb) | Perform multimodal training of ESM2, learning a joint embedding space of antibody sequence and structure.|
-| [ESM2AbCLIP_bindaff_pred.ipynb](https://github.com/arjan-hada/esm2-antibody-CLIP/blob/main/ESM2_Ab_CLIP.ipynb) | Evaluate the effect of multimodal training on antibody binding affinity prediction.|
+| [ESM2AbCLIP_bindaff_pred.ipynb]([https://github.com/arjan-hada/esm2-antibody-CLIP/blob/main/ESM2_Ab_CLIP.ipynb](https://github.com/arjan-hada/esm2-antibody-CLIP/blob/main/ESM2AbCLIP_bindaff_pred.ipynb)) | Evaluate the effect of multimodal training on antibody binding affinity prediction.|
 
