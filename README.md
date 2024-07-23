@@ -19,5 +19,6 @@ We also evaluate the effect of ESM2-Ab-CLIP model on antibody binding affinity p
 
 ## Notable To dos
 🛠️ Compare representative power of ESM2-Ab-CLIP over ESM2 for antibody sequences.
+
 🛠️ Implement ESM2-Ab-CLIP with larger ESM2 models. The implmentation here is with the smallest model 'facebook/esm2_t6_8M_UR50D' due to GPU resorces limitation.
 
